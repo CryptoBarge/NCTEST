@@ -2,7 +2,7 @@
     "name": "NCTEST",
     "symbol": "NCC",
     "description": "NCC is the official governance token for NCTEST.",
-    "image": "https://github.com/BargeCrypto/NCTEST/blob/main/NCTEST-logo.png",
+    "image": "https://raw.githubusercontent.com/BargeCrypto/NCTEST/main/image/logo.png",
     "attributes": [
       {
         "trait_type": "Item",
