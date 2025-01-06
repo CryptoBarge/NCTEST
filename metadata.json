@@ -1,0 +1,12 @@
+{
+    "name": "NCTEST",
+    "symbol": "NCC",
+    "description": "NCC is the official governance token for NCTEST.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
